@@ -9,4 +9,5 @@ https://www.applied-motion.com/s/category/products/servo-products/servo-drives/0
 
 The zip file included sample PLC programs, AOI set, user manual on how to set up products in Studio5000. 
 
-YouTube Tutorials:- https://www.youtube.com/playlist?list=PLA1J90-MlwYcDRKxrT6-LJESivyJMH7dZ
+YouTube Tutorials:-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/watch?v=AJ5lRY3rzUo&list=PLA1J90-MlwYe_7ezgWlgshdCeob6Go83Z](https://www.youtube.com/playlist?list=PLA1J90-MlwYcDRKxrT6-LJESivyJMH7dZ
+))
